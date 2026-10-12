@@ -1,0 +1,28 @@
+{
+  "name": "Nodus.Navigation.Tests",
+  "rootNamespace": "Nodus.Navigation.Tests",
+  "references": [
+    "Nodus.Navigation",
+    "Friflo.Engine.Unity",
+    "Nodus.ECS"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll",
+    "Friflo.Engine.ECS.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": false
+}

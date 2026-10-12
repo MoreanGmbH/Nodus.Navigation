@@ -1,0 +1,18 @@
+{
+    "name": "Nodus.Navigation",
+    "rootNamespace": "Nodus.Navigation",
+    "references": [
+        "Friflo.Engine.Unity",
+        "FrifloECS.Unity.EntityVisualize",
+        "Nodus.ECS"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

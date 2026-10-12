@@ -1,0 +1,10 @@
+{
+  "name": "com.nodus.navigation",
+  "version": "0.5.0",
+  "displayName": "Nodus.Navigation",
+  "description": "Friflo ECS history, Back/Forward requests, snapshots and history availability.",
+  "unity": "6000.6",
+  "dependencies": {
+    "com.nodus.ecs": "0.3.0"
+  }
+}
